@@ -1,0 +1,45 @@
+.extra{
+    text-align: center;
+    padding: 20px;
+   
+    background-repeat: no-repeat;
+}
+.working{
+   
+    text-align: center;
+    
+}
+
+.work{
+    background-image: url('../Images/extra.jpg');
+    background-repeat: no-repeat;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin-top: 40px;
+    
+
+}
+.activity{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.p-text{
+    color: gray;
+
+}
+.h-text{
+    padding: 10px;
+    color:#007bff;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.h-text:hover{
+    color: indigo;
+}
+.p-text:hover{
+    color: red;
+}
+.activity{
+    border: 2px solid black;
+    padding: 10px;
+}

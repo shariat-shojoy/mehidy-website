@@ -1,0 +1,10 @@
+.display{
+    display: grid;
+    grid-template-columns: repeat(2,ifr);
+    grid-row-gap: 5px;
+    
+}
+.text{
+    text-align: center;
+    margin-top: 50px;
+}

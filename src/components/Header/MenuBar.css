@@ -1,0 +1,22 @@
+/* menu bar style  */
+.menu {
+    list-style: none;
+    margin-right: 30px;
+    font-size: medium;
+    font-weight: 500;
+    color: rgb(218, 214, 214);
+    cursor: pointer;
+    padding: 5px;
+    text-decoration: none;
+  }
+  .menu:hover {
+    color: rgb(221, 5, 5);
+  }
+  .name{
+    
+      font-size: large;
+  }
+  .color{
+  color: aliceblue;
+
+  }

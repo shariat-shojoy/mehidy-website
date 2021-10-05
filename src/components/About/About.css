@@ -1,0 +1,36 @@
+/* about company  */
+.company{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    padding: 10px;
+    margin-top: 50px;
+}
+.image img{
+    width: 100%;
+}
+.discription{
+    margin-top: 90px;
+    transition: (transform,2s);
+    
+}
+.discription:hover{
+    
+    color:#072647;
+}
+/* about instructor  */
+.instructor{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin-top: 10%;
+
+}
+.img img{
+    width: 80%;
+}
+.center{
+    text-align: center;
+    margin: 5%;
+}
+.about{
+    margin-top: 70px;
+}

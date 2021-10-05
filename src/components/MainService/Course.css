@@ -1,0 +1,25 @@
+/* card img height  */
+.card img{
+    height: 400px;
+
+
+
+}
+/* card body  */
+.card{
+    
+    background-image: url('../Images/stripe-hero-background-effect-html-css.png');
+    width: 40%;
+    margin-left: 5%;
+    margin-top: 10%;
+    padding: 10px;
+    margin-bottom: 50px;
+
+    
+}
+/* tittle  */
+.name{
+    font-size: 25px;
+    color:black;
+}
+

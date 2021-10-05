@@ -1,0 +1,25 @@
+/* main services css */
+.card img{
+    height: 300px;
+
+
+
+}
+.card{
+    
+    background-image: url('../Images/stripe-hero-background-effect-html-css.png');
+    width: 43%;
+    margin-left: 5%;
+    padding: 10px;
+    margin-bottom: 25px;
+    transition: transform .2s; 
+    margin-top: 5%; 
+    
+}
+.name{
+    font-size: 25px;
+    color:black;
+}
+.card:hover{
+    transform: scale(1.1);
+}
