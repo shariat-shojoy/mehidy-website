@@ -1,6 +1,6 @@
 # Hash.edu
 
-This project was bootstrapped with [website link](https://wonderful-hermann-49668c.netlify.app/).
+This project was bootstrapped with [website link]().
 
 ## why you should vist our site
 
